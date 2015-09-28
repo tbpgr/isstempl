@@ -2,6 +2,9 @@
 
 Generate GitHub Issue template.
 
+[![Gem Version](https://badge.fury.io/rb/isstempl.svg)](http://badge.fury.io/rb/isstempl)
+[![Build Status](https://travis-ci.org/tbpgr/isstempl.png?branch=master)](https://travis-ci.org/tbpgr/isstempl)
+
 ## Installation
 
 Add this line to your application's Gemfile:
