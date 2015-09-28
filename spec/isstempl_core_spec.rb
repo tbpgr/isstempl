@@ -42,7 +42,7 @@ labels "bug"
 
           # -- when --
           actual = isstempl_core.generate
-print actual
+
           # -- then --
           expect(actual).to eq(c[:expected])
         ensure
